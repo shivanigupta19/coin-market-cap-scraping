@@ -1,0 +1,19 @@
+{
+  "name": "coinmarketcapscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coinMarketCap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "jsdom": "^18.0.0",
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0",
+    "tabletojson": "^2.0.7",
+    "xlsx-populate": "^1.21.0"
+  }
+}
